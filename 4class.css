@@ -1,0 +1,28 @@
+fieldset
+{
+    background-color: aqua;
+    height: 20opx;
+    width: 200px;
+}
+body
+{
+  background-image:url("C:/Users/CSS/Downloads/download.jpg");
+    background-repeat: no-repeat;
+    background-size: 100px 1400px
+}
+#i
+{
+    background-color: blueviolet;
+    height: 80px;
+    width: 100px;
+}
+#l
+{
+    width: 100px;
+    height: 100x;
+}
+ legend {
+background-color: palevioletred;
+font-size: 30px;
+ }
+
